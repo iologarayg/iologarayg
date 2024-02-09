@@ -1,16 +1,21 @@
-### Hi there 👋
+# 🤖 [@lgzarturo](https://twitter.com/ikerzito21)
+![GitHub followers](https://img.shields.io/github/followers/iologarayg?label=Follow%20me%20on%20GitHub&style=for-the-badge)
 
-<!--
-**iologarayg/iologarayg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hola 👋🏻, bienvenido a mi perfil provisional
 
-Here are some ideas to get you started:
+Soy estudiante de DAM.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Soy una persona esquizofrenica que ojo 👀 le des una mala idea.
+
+### Redes sociales
+
+
+[<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/twitter.png' alt='Twitter' width='24' style='width:24px; margin-right: 10px;'/>]
+[<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/instagram.png' alt='instagram' width='24' style='width:24px; margin-right: 10px;'/>]
+
+
+### 🛠 Frameworks y herramientas
+
+Listado de lenguajes que uso para los programs.
+
+Html, CSS, Java y phyton
